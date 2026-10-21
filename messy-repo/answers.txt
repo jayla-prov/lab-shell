@@ -1,0 +1,5 @@
+flag location: docs/archive/fieldnotes.txt, line 3
+top-level Python line count: 17
+unfinished markers: 7
+top-level Python file count: 3
+I initially typed ls- a instead of ls -a and saved an incomplete mk command in tidy.sh; I corrected both errors.
